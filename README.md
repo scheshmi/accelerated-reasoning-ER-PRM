@@ -82,9 +82,9 @@ Each problem's solution is saved as a JSON file containing:
 - Best solution
 
 
-## Aknowledge
+## Acknowledgment
 
-Some part of this code are based on https://github.com/huggingface/search-and-learn
+Some parts of this code are based on [Hugging Face's Search-and-Learn repository](https://github.com/huggingface/search-and-learn).
 
 ## Citation 
 
