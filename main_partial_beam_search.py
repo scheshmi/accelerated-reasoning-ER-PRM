@@ -3,8 +3,8 @@ import os
 import logging
 import argparse
 
-os.environ["NCCL_P2P_DISABLE"] = "1"
-os.environ["NCCL_IB_DISABLE"] = "1"
+# os.environ["NCCL_P2P_DISABLE"] = "1"
+# os.environ["NCCL_IB_DISABLE"] = "1"
 
 from utils.gpu_monitoring import start_gpu_monitoring, stop_gpu_monitoring, get_system_info
 from utils.result_savers import save_problem_result, save_aime_problem_result, save_amc23_problem_result, save_agieval_sat_math_problem_result
