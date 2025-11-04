@@ -5,7 +5,7 @@ This directory contains the official implementation of the paper:
 > **Accelerating LLM Reasoning via Early Rejection with Partial Reward Modeling**  (EMNLP 2025)
 > Seyyed Saeid Cheshmi\*, Azal Ahmad Khan\*, Xinran Wang, Zirui Liu, Ali Anwar  
 > University of Minnesota  
-> [arXiv:2508.01969](https://arxiv.org/abs/2508.01969v1)
+> [Paper](https://aclanthology.org/2025.findings-emnlp.551.pdf)
 
 ---
 
