@@ -91,13 +91,17 @@ Some parts of this code are based on [Hugging Face's Search-and-Learn repository
 If you use or build upon this work, please cite:
 
 ```
-@misc{cheshmi2025acceleratingllmreasoningearly,
-      title={Accelerating LLM Reasoning via Early Rejection with Partial Reward Modeling}, 
-      author={Seyyed Saeid Cheshmi and Azal Ahmad Khan and Xinran Wang and Zirui Liu and Ali Anwar},
-      year={2025},
-      eprint={2508.01969},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2508.01969}, 
+@inproceedings{cheshmi-etal-2025-accelerating,
+    title = "Accelerating {LLM} Reasoning via Early Rejection with Partial Reward Modeling",
+    author = "Cheshmi, Seyyed Saeid  and Khan, Azal Ahmad  and Wang, Xinran  and Liu, Zirui  and Anwar, Ali",
+    editor = "Christodoulopoulos, Christos  and Chakraborty, Tanmoy  and Rose, Carolyn  and Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.551/",
+    pages = "10433--10447",
+    ISBN = "979-8-89176-335-7",
 }
 ```
