@@ -59,13 +59,13 @@ python main_partial_beam_search.py \
 
 ## Supported LLMs
 
-1. **Qwen2.5-3B-Instruct**
-2. **Llama-3.2-3B-Instruct**
+1. **Qwen2.5-3B-Instruct** (`Qwen2.5-3B-Instruct`)
+2. **Llama-3.2-3B-Instruct** (`Llama-3.2-3B-Instruct`)
 
 ## Supported PRMs 
 
-1. **MathShepherd-Mistral-7B**
-2. **Skywork-PRM-1.5B**
+1. **MathShepherd-Mistral-7B** (`math-shepherd`)
+2. **Skywork-PRM-1.5B** (`skywork-o1-1.5b`)
 
 ## Output
 
@@ -84,7 +84,7 @@ Each problem's solution is saved as a JSON file containing:
 
 ## Acknowledgment
 
-Some parts of this code are based on [Hugging Face's Search-and-Learn repository](https://github.com/huggingface/search-and-learn).
+Some parts of this code are based on [HF's Search-and-Learn](https://github.com/huggingface/search-and-learn).
 
 ## Citation 
 
